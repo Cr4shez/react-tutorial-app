@@ -48,3 +48,11 @@ ol, ul {
 .game-info {
     margin-left: 20px;
 }
+
+.squareX{
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+.squareO{
+    background-color: rgba(0, 255, 0, 0.5);
+}
